@@ -2,7 +2,7 @@
 
  Identify and analyze demographics with varying levels of thyroid cancer risk using a data-driven approach.It encompasses a wide range of demographic, environmental, and medical attributes, making it suitable for various analytical and predictive modeling tasks.
 
-- In this dataset There are  17 columns and 212690 rows.
+- In this dataset There are  17 columns and 212691 rows.
 - I used pandas , matplotlib and seaborn  library for Data Cleaning: pandas provides tools to handle missing values, duplicates, and inconsistent data entries.
   Data Transformation: With functions like groupby(), pivot_table(), and merge(), pandas facilitates complex data transformations.
 
