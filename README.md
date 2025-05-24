@@ -13,7 +13,6 @@ Age: Numerical value representing the patient's age
 Gender: Categorical variable (e.g., Male, Female)
 Country: Country of residence
 Ethnicity: Ethnic background of the patient
-GitHub
 
 2. Medical Indicators
 TSH_Level (Thyroid-Stimulating Hormone): Hormone level influencing thyroid activity
@@ -28,7 +27,6 @@ Iodine Deficiency: Lack of iodine in diet
 Smoking: Smoking habits
 Obesity: Body mass index indicating obesity
 Diabetes: Presence of diabetes
-GitHub
 
 4. Outcome Variables
 Thyroid Cancer Risk: Categorized as Low, Medium, or High
